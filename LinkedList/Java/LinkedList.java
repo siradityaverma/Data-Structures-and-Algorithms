@@ -117,11 +117,7 @@ class LinkedList {
     return this.length;
   }
   public static void main(String[] args) {
-    LinkedList ll = new LinkedList();
-    int arr[] = {1, 4, 5, 6, 7, 8, 9, 3};
-    ll.fromArray(arr);
-    ll.pop(2);
-    ll.print();
-    System.out.println("Length of linked list is " + ll.getSize());
+    LinkedList linkedList = new LinkedList();
+    // Do operations here
   }
 }
