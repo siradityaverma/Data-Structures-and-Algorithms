@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList.Java.LinkedList",
+      "projectName": "algorithms_63f84162"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "LinkedList.Java.Main",
+      "projectName": "algorithms_63f84162"
+    }
+  ]
+}
