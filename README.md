@@ -1,7 +1,11 @@
 # Data Structures and Algorithms
-My implementation of various Data Structures and Algorithms
+This repository contains implementations of various Data Structures and Algorithms.
 
-I haven't done every solution in every language so here's a table to make things easier:
+### Languages Used
+I am currently using Java, Python, and JavaScript. I am trying to learn Go and C++ simultaneously and implement them after I feel comfortable with them.
+
+### Table
+I haven't done every implementation in every language so here's a table to make things easier:
 
 |  DS/Algo | C++ | Go | Java | JavaScript | Python |
 |----------|-----|----|------|------------|--------|
