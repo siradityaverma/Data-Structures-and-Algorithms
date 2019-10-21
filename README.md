@@ -9,4 +9,7 @@ I haven't done every implementation in every language so here's a table to make 
 
 |  DS/Algo | C++ | Go | Java | JavaScript | Python |
 |----------|-----|----|------|------------|--------|
-| Linked List | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Java/LinkedList.java) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/tree/master/LinkedList/JavaScript) | In-Progress |
+| Singly Linked List | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Java/LinkedList.java) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/tree/master/LinkedList/JavaScript) | In-Progress |
+| Doubly Linked List | In-Progress | In-Progress | In-Progress | In-Progress| In-Progress |
+| Stack | In-Progress | In-Progress | In-Progress | In-Progress | In-Progress |
+| Queues | In-Progress | In-Progress | In-Progress | In-Progress | In-Progress |
