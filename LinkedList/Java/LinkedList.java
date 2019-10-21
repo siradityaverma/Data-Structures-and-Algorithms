@@ -1,9 +1,9 @@
 class LinkedList {
-  Node head;
-  Node tail;
+  private Node head;
+  private Node tail;
   private int length = 0;
 
-  static class Node {
+  private static class Node {
     int data;
     Node next;
 
@@ -12,7 +12,7 @@ class LinkedList {
     }
   }
 
-  void prepend(int value) {
+  public void prepend(int value) {
     Node node = new Node(value);
     node.next = this.head;
     this.head = node;
@@ -21,7 +21,7 @@ class LinkedList {
     }
     this.length++;
   }
-  void append(int value) {
+  public void append(int value) {
     this.length++;
     Node node = new Node(value);
     if (this.head == null) {
@@ -35,7 +35,7 @@ class LinkedList {
     this.tail = node;
   }
 
-  void appendByIteration(int value) {
+  public void appendByIteration(int value) {
     this.length++;
     Node node = this.head;
     while(node != null) {
@@ -49,7 +49,7 @@ class LinkedList {
     }
   }
 
-  void unshift() {
+  public void unshift() {
     if(this.head == null) {
       throw new NullPointerException("Cannot delete from empty linked list");
     }
@@ -57,7 +57,7 @@ class LinkedList {
     this.head = this.head.next;
   }
 
-  void pop() {
+  public void pop() {
     if (this.head == null) {
       throw new NullPointerException("Cannot delete from empty linked list");
     }
@@ -75,7 +75,7 @@ class LinkedList {
     }
   }
 
-  void pop(int index) {
+  public void deleteIndex(int index) {
     if (this.head == null) {
       throw new NullPointerException("Cannot delete from empty linked list");
     }
@@ -99,13 +99,16 @@ class LinkedList {
   }
 
   void fromArray(int arr[]) {
+    if (arr.length == 0) {
+      throw new NullPointerException("Array length cannot be zero.");
+    }
     for(int i = 0; i < arr.length; i++) {
       this.append(arr[i]);
     }
     this.length = arr.length;
   }
 
-  void print() {
+  public void print() {
     Node node = this.head;
     while(node != null) {
       System.out.println(node.data);
@@ -113,7 +116,7 @@ class LinkedList {
     }
   }
 
-  int getSize() {
+  public int getSize() {
     return this.length;
   }
   public static void main(String[] args) {
