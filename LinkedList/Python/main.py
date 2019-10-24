@@ -41,9 +41,3 @@ class LinkedList:
             print(temp.data)
             temp = temp.next
 
-llist = LinkedList()
-# llist.push(2)
-# llist.push(1)
-# llist.insert_after(llist.head.next, 3)
-# llist.append(4)
-# llist.print_list()
