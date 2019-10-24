@@ -9,7 +9,7 @@ I haven't done every implementation in every language so here's a table to make 
 
 |  DS/Algo | C++ | Go | Java | JavaScript | Python |
 |----------|-----|----|------|------------|--------|
-| Singly Linked List | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Java/LinkedList.java) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/tree/master/LinkedList/JavaScript) | In-Progress |
+| Singly Linked List | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Java/LinkedList.java) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/tree/master/LinkedList/JavaScript) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Python/main.py) |
 | Doubly Linked List | In-Progress | In-Progress | In-Progress | In-Progress| In-Progress |
 | Stack | In-Progress | In-Progress | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/Stack/Python/stack.py) |
 | Queues | In-Progress | In-Progress | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/Queue/Python/queue.py) |
