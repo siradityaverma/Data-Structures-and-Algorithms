@@ -9,6 +9,8 @@ I haven't done every implementation in every language so here's a table to make 
 
 |  DS/Algo | C++ | Go | Java | JavaScript | Python |
 |----------|-----|----|------|------------|--------|
+| Linear Search | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/Array/Search/Go/linear_search.go) | In-Progress | In-Progress | In-Progress |
+| Binary Search | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/Array/Search/Go/binary_search.go) | In-Progress | In-Progress | In-Progress |
 | Singly Linked List | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Java/LinkedList.java) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/tree/master/LinkedList/JavaScript) | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/LinkedList/Python/main.py) |
 | Doubly Linked List | In-Progress | In-Progress | In-Progress | In-Progress| In-Progress |
 | Stack | In-Progress | In-Progress | In-Progress | In-Progress | [Solution](https://github.com/siradityaverma/Data-Structures-and-Algorithms/blob/master/Stack/Python/stack.py) |
